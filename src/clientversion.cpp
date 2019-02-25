@@ -18,7 +18,7 @@ const std::string CLIENT_NAME("Educoin Core");
 /**
  * Client version number
  */
-#define CLIENT_VERSION_SUFFIX "-HAVEFUN"
+#define CLIENT_VERSION_SUFFIX "-CANDY"
 
 
 /**
