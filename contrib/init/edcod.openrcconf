@@ -1,0 +1,26 @@
+# /etc/conf.d/edcod: config file for /etc/init.d/edcod
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/edco/Educoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/edcod"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/edcod.pid"
+
+# Where to write edcod data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/edcod"
+
+# User and group to own edcod process
+#BITCOIND_USER="edco"
+#BITCOIND_GROUP="edco"
+
+# Path to edcod executable
+#BITCOIND_BIN="/usr/bin/edcod"
+
+# Nice value to run edcod under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

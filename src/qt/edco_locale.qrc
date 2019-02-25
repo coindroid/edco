@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/edco_bg.qm</file>
+        <file alias="ca">locale/edco_ca.qm</file>
+        <file alias="cs">locale/edco_cs.qm</file>
+        <file alias="da">locale/edco_da.qm</file>
+        <file alias="de">locale/edco_de.qm</file>
+        <file alias="en">locale/edco_en.qm</file>
+        <file alias="en_US">locale/edco_en_US.qm</file>
+        <file alias="es">locale/edco_es.qm</file>
+        <file alias="fi">locale/edco_fi.qm</file>
+        <file alias="fr_FR">locale/edco_fr_FR.qm</file>
+        <file alias="it">locale/edco_it.qm</file>
+        <file alias="ja">locale/edco_ja.qm</file>
+        <file alias="ko_KR">locale/edco_ko_KR.qm</file>
+        <file alias="nl">locale/edco_nl.qm</file>
+        <file alias="pl">locale/edco_pl.qm</file>
+        <file alias="pt">locale/edco_pt.qm</file>
+        <file alias="pt_BR">locale/edco_pt_BR.qm</file>
+        <file alias="ro_RO">locale/edco_ro_RO.qm</file>
+        <file alias="ru">locale/edco_ru.qm</file>
+        <file alias="sk">locale/edco_sk.qm</file>
+        <file alias="sv">locale/edco_sv.qm</file>
+        <file alias="tr">locale/edco_tr.qm</file>
+        <file alias="uk">locale/edco_uk.qm</file>
+        <file alias="zh_CN">locale/edco_zh_CN.qm</file>
+        <file alias="zh_TW">locale/edco_zh_TW.qm</file>
+    </qresource>
+</RCC>

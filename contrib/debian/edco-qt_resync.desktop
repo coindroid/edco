@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Edco-Qt (Resync)
+Comment=Edco P2P gaming related cryptocurrency
+Comment[fr]=Edco, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Edco, eşten eşe kriptografik sanal para birimi
+Exec=edco-qt --resync %u
+Terminal=false
+Type=Application
+Icon=edco128
+MimeType=x-scheme-handler/edco;
+Categories=Office;Finance;

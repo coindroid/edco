@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Edco-Qt Testnet
+Comment=Edco P2P gaming related cryptocurrency - TESTNETWORK
+Comment[fr]=Edco testnet, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Edco testnet, eşten eşe kriptografik sanal para birimi
+Exec=edco-qt --testnet %u
+Terminal=false
+Type=Application
+Icon=edco128-testnet
+MimeType=x-scheme-handler/edco;
+Categories=Office;Finance;
